@@ -1,2 +1,0 @@
-Chapter-2/Embeddings-Data/glove.twitter.27B.100d.txt filter=lfs diff=lfs merge=lfs -text
-Chapter-2/Embeddings-Data/twitter_dataset.csv filter=lfs diff=lfs merge=lfs -text
